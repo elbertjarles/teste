@@ -1,1 +1,5 @@
-index.php
+<? phpinf();
+
+
+
+?>
